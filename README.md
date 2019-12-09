@@ -4,7 +4,7 @@
 # How to use
 **For Comilla Government College:** cd PATH/python appCGC.py
 
-**For Comilla Victoria College:**cd PATH/python appCVC.py
+**For Comilla Victoria College:** cd PATH/python appCVC.py
 
 # Contributors 
  >**Srejon Khan**
